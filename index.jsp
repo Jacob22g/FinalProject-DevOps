@@ -21,7 +21,7 @@
 if(session.getAttribute("list")==null)
 	session.setAttribute("list", new LinkedList<String>());
 
-//making sure we have a reference for a linked list
+//making sure we have a reference for a linked list 
 LinkedList<String> list = (LinkedList<String>)session.getAttribute("list");
 
 //checking if the request includes 'item' parameter... if it includes one
