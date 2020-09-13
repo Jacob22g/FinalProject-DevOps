@@ -34,7 +34,7 @@ if(temp!=null && temp!="") {
   <h1>DevOps App Example</h1>
 </div>
 
-<form action="demo.jsp" method="get">
+<form action="demo.jsp" method="post">
   <div class="form-group text-center">
 	<input name="item" class="form-control text-center" type="text" placeholder="Enter Item">
   </div>
