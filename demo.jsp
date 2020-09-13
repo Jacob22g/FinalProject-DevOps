@@ -31,10 +31,10 @@ if(temp!=null && temp!="") {
 %>
 
 <div class="jumbotron text-center">
-  <h1>Adding Item to Your Todo List</h1>
+  <h1>DevOps App Example</h1>
 </div>
 
-<form action="index.jsp" method="get">
+<form action="demo.jsp" method="get">
   <div class="form-group text-center">
 	<input name="item" class="form-control text-center" type="text" placeholder="Enter Item">
   </div>
