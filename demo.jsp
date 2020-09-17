@@ -12,7 +12,7 @@
 
 
 <meta charset="windows-1255">
-<title>todo list</title>
+<title>todo list new</title>
 </head>
 <body>
 
